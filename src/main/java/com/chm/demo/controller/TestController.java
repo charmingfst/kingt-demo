@@ -39,7 +39,7 @@ public class TestController {
     }
     @RequestMapping("/hi")
     @ResponseBody
-    private String sha(String[] aa) {
+    private String dev(String[] aa) {
         System.out.println(aa[0]+","+aa[1]);
         return "haha";
     }
