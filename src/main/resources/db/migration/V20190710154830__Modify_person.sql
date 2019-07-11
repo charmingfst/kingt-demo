@@ -1,0 +1,1 @@
+ALTER TABLE `chm`.`PERSON` ADD COLUMN `address` varchar(64) NULL COMMENT '地址';

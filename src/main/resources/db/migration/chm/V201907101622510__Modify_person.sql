@@ -1,0 +1,1 @@
+ALTER TABLE `chm`.`PERSON` ADD COLUMN `gender` int (11) NULL COMMENT '性别';
